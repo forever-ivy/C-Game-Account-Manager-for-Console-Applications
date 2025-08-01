@@ -150,23 +150,9 @@ SecurityModule
 - **Composition** - `SecurityModule` as a separate component.
 - **File Management** - Centralized management of file paths.
 
-## 🔮 Future Improvements
 
-- [ ] Add a Graphical User Interface (GUI).
-- [ ] Implement a stronger password encryption algorithm.
-- [ ] Add database support.
-- [ ] Support for multi-user networking.
-- [ ] A more enriched equipment system.
-- [ ] Finer-grained user permissions.
 
 ## 📄 License
 
 This project is for learning and research purposes only.
 
-## 👥 Contributing
-
-Feel free to submit Issues and Pull Requests to improve this project!
-
----
-
-**Note**: This system uses Windows-specific APIs and may require modifications to run on other operating systems.
