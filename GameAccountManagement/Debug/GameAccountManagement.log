@@ -1,0 +1,10 @@
+﻿  Administrador.cpp
+  Gamer.cpp
+  main.cpp
+C:\Mac\Home\Desktop\GameAccountManagement\GameAccountManagement\main.cpp(128,20): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Mac\Home\Desktop\GameAccountManagement\GameAccountManagement\main.cpp(141,14): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  md5.cpp
+  SecurityModule.cpp
+C:\Mac\Home\Desktop\GameAccountManagement\GameAccountManagement\SecurityModule.cpp(61,12): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  正在生成代码...
+  GameAccountManagement.vcxproj -> C:\Mac\Home\Desktop\GameAccountManagement\Debug\GameAccountManagement.exe

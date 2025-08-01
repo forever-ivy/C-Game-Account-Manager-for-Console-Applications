@@ -1,0 +1,449 @@
+﻿  Administrator.cpp
+  Gamer.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(86,9): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(86,15): error C2146: 语法错误: 缺少“;”(在标识符“SEC_WCHAR”的前面)
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(86,15): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(87,9): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(87,14): error C2146: 语法错误: 缺少“;”(在标识符“SEC_CHAR”的前面)
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(87,14): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(90,9): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(90,14): error C2146: 语法错误: 缺少“;”(在标识符“SECURITY_STATUS”的前面)
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(90,14): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(106,19): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(106,9): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(106,9): error C2378: “SEC_WCHAR”: 重定义；符号不能由 typedef 重载
+  (编译源文件“Administrator.cpp”)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(86,15):
+      参见“SEC_WCHAR”的声明
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(106,21): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(107,9): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(107,15): error C2146: 语法错误: 缺少“;”(在标识符“SEC_WCHAR”的前面)
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(107,25): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(107,15): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(107,15): error C2086: “int SEC_WCHAR”: 重定义
+  (编译源文件“Administrator.cpp”)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(86,15):
+      参见“SEC_WCHAR”的声明
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(107,27): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(132,15): error C3646: “dwLower”: 未知重写说明符
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(132,5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(133,15): error C3646: “dwUpper”: 未知重写说明符
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(133,5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(231,15): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(231,5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(231,21): error C2238: 意外的标记位于“;”之前
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(236,15): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(236,5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(236,24): error C2238: 意外的标记位于“;”之前
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(250,14): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(250,5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(250,20): error C2238: 意外的标记位于“;”之前
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(255,14): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(255,5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(255,23): error C2238: 意外的标记位于“;”之前
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(388,15): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(388,5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(388,21): error C2238: 意外的标记位于“;”之前
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(451,32): error C2065: “ANYSIZE_ARRAY”: 未声明的标识符
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(456,49): error C2065: “ANYSIZE_ARRAY”: 未声明的标识符
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(462,33): error C2065: “ANYSIZE_ARRAY”: 未声明的标识符
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(467,39): error C2065: “ANYSIZE_ARRAY”: 未声明的标识符
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(475,33): error C2065: “ANYSIZE_ARRAY”: 未声明的标识符
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(480,24): error C2065: “ANYSIZE_ARRAY”: 未声明的标识符
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(485,32): error C2065: “ANYSIZE_ARRAY”: 未声明的标识符
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(498,47): error C2065: “ANYSIZE_ARRAY”: 未声明的标识符
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(524,34): error C2065: “ANYSIZE_ARRAY”: 未声明的标识符
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(704,15): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(704,5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(704,26): error C2238: 意外的标记位于“;”之前
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(715,14): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(715,5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(715,25): error C2238: 意外的标记位于“;”之前
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(732,15): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(732,5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(732,30): error C2238: 意外的标记位于“;”之前
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(741,15): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(741,5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(741,30): error C2238: 意外的标记位于“;”之前
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(761,12): error C3646: “Version”: 未知重写说明符
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(761,5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(762,12): error C3646: “Flags”: 未知重写说明符
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(762,5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(763,12): error C3646: “ProxyServerOffset”: 未知重写说明符
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(763,5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(764,12): error C3646: “ProxyServerLength”: 未知重写说明符
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(764,5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(765,12): error C3646: “ClientTlsCredOffset”: 未知重写说明符
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(765,5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(766,12): error C3646: “ClientTlsCredLength”: 未知重写说明符
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(766,5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(901,15): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(901,5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(901,26): error C2238: 意外的标记位于“;”之前
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(919,14): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(919,5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(919,25): error C2238: 意外的标记位于“;”之前
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(948,14): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(948,5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(948,40): error C2238: 意外的标记位于“;”之前
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(949,14): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(949,5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(949,38): error C2238: 意外的标记位于“;”之前
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(959,15): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(959,5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(959,40): error C2238: 意外的标记位于“;”之前
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(960,15): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(960,5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(960,38): error C2238: 意外的标记位于“;”之前
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(978,14): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(978,5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(978,31): error C2238: 意外的标记位于“;”之前
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(985,15): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(985,5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(985,31): error C2238: 意外的标记位于“;”之前
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(1000,14): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(1000,5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(1000,30): error C2238: 意外的标记位于“;”之前
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(1009,15): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(1009,5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(1009,30): error C2238: 意外的标记位于“;”之前
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(1122,15): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(1122,5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(1122,28): error C2238: 意外的标记位于“;”之前
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(1123,15): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(1123,5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(1123,28): error C2238: 意外的标记位于“;”之前
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(1128,14): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(1128,5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(1128,27): error C2238: 意外的标记位于“;”之前
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(1129,14): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(1129,5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(1129,27): error C2238: 意外的标记位于“;”之前
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(1148,15): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(1148,5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(1148,31): error C2238: 意外的标记位于“;”之前
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(1157,14): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(1157,5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(1157,30): error C2238: 意外的标记位于“;”之前
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(1197,15): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(1197,5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(1197,28): error C2238: 意外的标记位于“;”之前
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(1230,15): error C3646: “UserFunction”: 未知重写说明符
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(1230,5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(1231,15): error C3646: “Argument1”: 未知重写说明符
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(1231,5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(1232,15): error C3646: “Argument2”: 未知重写说明符
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(1232,5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(1234,15): error C3646: “ReturnToLsa”: 未知重写说明符
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(1234,5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(1246,5): error C2061: 语法错误: 标识符“SECURITY_STATUS”
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(1260,17): error C2143: 语法错误: 缺少“;”(在“__cdecl”的前面)
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(1260,1): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(1260,1): error C2370: “SECURITY_STATUS”: 重定义；不同的存储类
+  (编译源文件“Administrator.cpp”)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(90,14):
+      参见“SECURITY_STATUS”的声明
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(1261,1): warning C4229: 使用了记时错误: 忽略数据上的修饰符
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(1261,1): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(1266,15): error C2065: “LPWSTR”: 未声明的标识符
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(1266,22): error C2146: 语法错误: 缺少“)”(在标识符“pszPrincipal”的前面)
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(1278,9): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(1278,9): error C2378: “SECURITY_STATUS”: 重定义；符号不能由 typedef 重载
+  (编译源文件“Administrator.cpp”)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(90,14):
+      参见“SECURITY_STATUS”的声明
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(1279,2): error C2059: 语法错误:“__cdecl”
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(1297,17): error C2143: 语法错误: 缺少“;”(在“__cdecl”的前面)
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(1297,1): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“Administrator.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(1297,1): error C2086: “int SECURITY_STATUS”: 重定义
+  (编译源文件“Administrator.cpp”)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(90,14):
+      参见“SECURITY_STATUS”的声明
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sspi.h(1297,1): error C1003: 错误计数超过 100；正在停止编译
+  (编译源文件“Administrator.cpp”)
+  
+  mian.cpp
+  正在生成代码...

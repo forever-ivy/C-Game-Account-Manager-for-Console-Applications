@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\Mac\\T7\\old data\\homework\\\u5927\u4E00\u4E0B\\c\u002B\u002B\\GameAccountManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7753F9D-E350-4CBC-AFAC-E22F6EEE36BB}|GameAccountManagement\\GameAccountManagement.vcxproj|\\\\Mac\\T7\\old data\\homework\\\u5927\u4E00\u4E0B\\c\u002B\u002B\\GameAccountManagement\\GameAccountManagement\\SecurityModule.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7753F9D-E350-4CBC-AFAC-E22F6EEE36BB}|GameAccountManagement\\GameAccountManagement.vcxproj|\\\\Mac\\T7\\old data\\homework\\\u5927\u4E00\u4E0B\\c\u002B\u002B\\GameAccountManagement\\GameAccountManagement\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7753F9D-E350-4CBC-AFAC-E22F6EEE36BB}|GameAccountManagement\\GameAccountManagement.vcxproj|\\\\Mac\\T7\\old data\\homework\\\u5927\u4E00\u4E0B\\c\u002B\u002B\\GameAccountManagement\\GameAccountManagement\\md5.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7753F9D-E350-4CBC-AFAC-E22F6EEE36BB}|GameAccountManagement\\GameAccountManagement.vcxproj|\\\\Mac\\T7\\old data\\homework\\\u5927\u4E00\u4E0B\\c\u002B\u002B\\GameAccountManagement\\GameAccountManagement\\Gamer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7753F9D-E350-4CBC-AFAC-E22F6EEE36BB}|GameAccountManagement\\GameAccountManagement.vcxproj|\\\\Mac\\T7\\old data\\homework\\\u5927\u4E00\u4E0B\\c\u002B\u002B\\GameAccountManagement\\GameAccountManagement\\globalFile .h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7753F9D-E350-4CBC-AFAC-E22F6EEE36BB}|GameAccountManagement\\GameAccountManagement.vcxproj|\\\\Mac\\T7\\old data\\homework\\\u5927\u4E00\u4E0B\\c\u002B\u002B\\GameAccountManagement\\GameAccountManagement\\Administrador.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7753F9D-E350-4CBC-AFAC-E22F6EEE36BB}|GameAccountManagement\\GameAccountManagement.vcxproj|\\\\Mac\\T7\\old data\\homework\\\u5927\u4E00\u4E0B\\c\u002B\u002B\\GameAccountManagement\\GameAccountManagement\\SecurityModule .h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7753F9D-E350-4CBC-AFAC-E22F6EEE36BB}|GameAccountManagement\\GameAccountManagement.vcxproj|\\\\Mac\\T7\\old data\\homework\\\u5927\u4E00\u4E0B\\c\u002B\u002B\\GameAccountManagement\\GameAccountManagement\\Administrador.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7753F9D-E350-4CBC-AFAC-E22F6EEE36BB}|GameAccountManagement\\GameAccountManagement.vcxproj|\\\\Mac\\T7\\old data\\homework\\\u5927\u4E00\u4E0B\\c\u002B\u002B\\GameAccountManagement\\GameAccountManagement\\Gamer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7753F9D-E350-4CBC-AFAC-E22F6EEE36BB}|GameAccountManagement\\GameAccountManagement.vcxproj|\\\\Mac\\T7\\old data\\homework\\\u5927\u4E00\u4E0B\\c\u002B\u002B\\GameAccountManagement\\GameAccountManagement\\md5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7753F9D-E350-4CBC-AFAC-E22F6EEE36BB}|GameAccountManagement\\GameAccountManagement.vcxproj|\\\\Mac\\T7\\old data\\homework\\\u5927\u4E00\u4E0B\\c\u002B\u002B\\GameAccountManagement\\GameAccountManagement\\Account.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "md5.cpp",
+              "DocumentMoniker": "\\\\Mac\\T7\\old data\\homework\\\u5927\u4E00\u4E0B\\c\u002B\u002B\\GameAccountManagement\\GameAccountManagement\\md5.cpp",
+              "RelativeDocumentMoniker": "GameAccountManagement\\md5.cpp",
+              "ToolTip": "\\\\Mac\\T7\\old data\\homework\\\u5927\u4E00\u4E0B\\c\u002B\u002B\\GameAccountManagement\\GameAccountManagement\\md5.cpp",
+              "RelativeToolTip": "GameAccountManagement\\md5.cpp",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAAAK0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-12T13:15:09.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "md5.h",
+              "DocumentMoniker": "\\\\Mac\\T7\\old data\\homework\\\u5927\u4E00\u4E0B\\c\u002B\u002B\\GameAccountManagement\\GameAccountManagement\\md5.h",
+              "RelativeDocumentMoniker": "GameAccountManagement\\md5.h",
+              "ToolTip": "\\\\Mac\\T7\\old data\\homework\\\u5927\u4E00\u4E0B\\c\u002B\u002B\\GameAccountManagement\\GameAccountManagement\\md5.h",
+              "RelativeToolTip": "GameAccountManagement\\md5.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-12T13:14:18.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Administrador.cpp",
+              "DocumentMoniker": "\\\\Mac\\T7\\old data\\homework\\\u5927\u4E00\u4E0B\\c\u002B\u002B\\GameAccountManagement\\GameAccountManagement\\Administrador.cpp",
+              "RelativeDocumentMoniker": "GameAccountManagement\\Administrador.cpp",
+              "ToolTip": "\\\\Mac\\T7\\old data\\homework\\\u5927\u4E00\u4E0B\\c\u002B\u002B\\GameAccountManagement\\GameAccountManagement\\Administrador.cpp",
+              "RelativeToolTip": "GameAccountManagement\\Administrador.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-11T04:20:39.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Gamer.cpp",
+              "DocumentMoniker": "\\\\Mac\\T7\\old data\\homework\\\u5927\u4E00\u4E0B\\c\u002B\u002B\\GameAccountManagement\\GameAccountManagement\\Gamer.cpp",
+              "RelativeDocumentMoniker": "GameAccountManagement\\Gamer.cpp",
+              "ToolTip": "\\\\Mac\\T7\\old data\\homework\\\u5927\u4E00\u4E0B\\c\u002B\u002B\\GameAccountManagement\\GameAccountManagement\\Gamer.cpp",
+              "RelativeToolTip": "GameAccountManagement\\Gamer.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-07T03:58:14.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "\\\\Mac\\T7\\old data\\homework\\\u5927\u4E00\u4E0B\\c\u002B\u002B\\GameAccountManagement\\GameAccountManagement\\main.cpp",
+              "RelativeDocumentMoniker": "GameAccountManagement\\main.cpp",
+              "ToolTip": "\\\\Mac\\T7\\old data\\homework\\\u5927\u4E00\u4E0B\\c\u002B\u002B\\GameAccountManagement\\GameAccountManagement\\main.cpp",
+              "RelativeToolTip": "GameAccountManagement\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-08T12:30:59.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SecurityModule.cpp",
+              "DocumentMoniker": "\\\\Mac\\T7\\old data\\homework\\\u5927\u4E00\u4E0B\\c\u002B\u002B\\GameAccountManagement\\GameAccountManagement\\SecurityModule.cpp",
+              "RelativeDocumentMoniker": "GameAccountManagement\\SecurityModule.cpp",
+              "ToolTip": "\\\\Mac\\T7\\old data\\homework\\\u5927\u4E00\u4E0B\\c\u002B\u002B\\GameAccountManagement\\GameAccountManagement\\SecurityModule.cpp",
+              "RelativeToolTip": "GameAccountManagement\\SecurityModule.cpp",
+              "ViewState": "AgIAADoAAACAzczMzMwUwFMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-11T07:42:22.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SecurityModule .h",
+              "DocumentMoniker": "\\\\Mac\\T7\\old data\\homework\\\u5927\u4E00\u4E0B\\c\u002B\u002B\\GameAccountManagement\\GameAccountManagement\\SecurityModule .h",
+              "RelativeDocumentMoniker": "GameAccountManagement\\SecurityModule .h",
+              "ToolTip": "\\\\Mac\\T7\\old data\\homework\\\u5927\u4E00\u4E0B\\c\u002B\u002B\\GameAccountManagement\\GameAccountManagement\\SecurityModule .h",
+              "RelativeToolTip": "GameAccountManagement\\SecurityModule .h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-07T03:12:07.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "globalFile .h",
+              "DocumentMoniker": "\\\\Mac\\T7\\old data\\homework\\\u5927\u4E00\u4E0B\\c\u002B\u002B\\GameAccountManagement\\GameAccountManagement\\globalFile .h",
+              "RelativeDocumentMoniker": "GameAccountManagement\\globalFile .h",
+              "ToolTip": "\\\\Mac\\T7\\old data\\homework\\\u5927\u4E00\u4E0B\\c\u002B\u002B\\GameAccountManagement\\GameAccountManagement\\globalFile .h",
+              "RelativeToolTip": "GameAccountManagement\\globalFile .h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-07T12:59:19.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Gamer.h",
+              "DocumentMoniker": "\\\\Mac\\T7\\old data\\homework\\\u5927\u4E00\u4E0B\\c\u002B\u002B\\GameAccountManagement\\GameAccountManagement\\Gamer.h",
+              "RelativeDocumentMoniker": "GameAccountManagement\\Gamer.h",
+              "ToolTip": "\\\\Mac\\T7\\old data\\homework\\\u5927\u4E00\u4E0B\\c\u002B\u002B\\GameAccountManagement\\GameAccountManagement\\Gamer.h",
+              "RelativeToolTip": "GameAccountManagement\\Gamer.h",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-07T12:36:24.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Account.h",
+              "DocumentMoniker": "\\\\Mac\\T7\\old data\\homework\\\u5927\u4E00\u4E0B\\c\u002B\u002B\\GameAccountManagement\\GameAccountManagement\\Account.h",
+              "RelativeDocumentMoniker": "GameAccountManagement\\Account.h",
+              "ToolTip": "\\\\Mac\\T7\\old data\\homework\\\u5927\u4E00\u4E0B\\c\u002B\u002B\\GameAccountManagement\\GameAccountManagement\\Account.h",
+              "RelativeToolTip": "GameAccountManagement\\Account.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-07T03:52:49.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Administrador.h",
+              "DocumentMoniker": "\\\\Mac\\T7\\old data\\homework\\\u5927\u4E00\u4E0B\\c\u002B\u002B\\GameAccountManagement\\GameAccountManagement\\Administrador.h",
+              "RelativeDocumentMoniker": "GameAccountManagement\\Administrador.h",
+              "ToolTip": "\\\\Mac\\T7\\old data\\homework\\\u5927\u4E00\u4E0B\\c\u002B\u002B\\GameAccountManagement\\GameAccountManagement\\Administrador.h",
+              "RelativeToolTip": "GameAccountManagement\\Administrador.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-07T12:37:38.069Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
